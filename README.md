@@ -1,1 +1,2 @@
-#my app for git test project
+#myApp
+for git test project
